@@ -1,6 +1,9 @@
 # My Software Engineering Project - Number 1
 **Subtitle:** Combining Project-1 and Project Number 1
 
+**Version:** v1.0.0  
+**Status:** Complete
+
 **Name:** Peter Woodard  
 **Student ID:** 1294124
 
